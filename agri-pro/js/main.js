@@ -1,4 +1,4 @@
-/**
+﻿/**
  * AGRI-PRO EUROPEAN MACHINERY — CORE JAVASCRIPT
  * Modular, Vanilla JS (Easily integrated into WordPress enqueued scripts)
  */

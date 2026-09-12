@@ -1,4 +1,4 @@
-/**
+﻿/**
  * AGRI-PRO EUROPEAN MACHINERY — PRODUCT CATALOG CONTROLLER
  * Category filtering, search and live status
  */
